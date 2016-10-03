@@ -5,7 +5,7 @@ Last updated 3rd October 2016
 
 ### Overview
 
-Chess Events Ltd is a software service which aims to improve the efficiency, accessibility and management of Chess events played in the United Kingdom.
+Chess Events Ltd is a software service which aims to improve the efficiency, accessibility and management of chess events played in the United Kingdom.
 
 This specification is not, by any means, complete. Most of the wording will be revised several times before it is finalised. The graphics and layout of the wireframes shown here merely illustrate the underlying functionality. The actual look and feel will be developed over time with the input of graphics designers and iterative user feedback.
 
@@ -17,35 +17,35 @@ In designing products, it helps to imagine a few real life stories of how actual
 
 **Scenario 1**: Frequent Player "Joe"
 
-Joe regularly enters chess events all across the country, he picks up entry forms for future events at many of the events he attends. Joe usually plays the same events year in year out and has a good grasp for when these are held and where they're being played.
+Joe regularly enters chess events all across the country, he picks up entry forms for future events at many of the events he attends. Joe usually plays the same ones year in year out and as such has a good grasp for when these are and where they're being played.
 
-Joe is likely to miss new opportunities or last minute changes to events unforeseen by the organiser (currently organiser can only inform players by telephone or by post).
+Joe is likely to miss new opportunities or critically not be informed of last minute changes to events unforeseen by the organiser. Currently organiser can only inform players by telephone or by post which is both time consuming and costly.
 
-Through Chess Events, Joe can favourite the events he regularly attends, this automatically him reminders a few weeks before the event so he doesn't forget.  Joe and other players taking part are notified instantly of any changes to these events, the severity of these changes are highlighed in the notification. 
+Through Chess Events Joe was able to favourite the events he regularly attended, this automatically reminders him a short while before before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part appreciate being notified instantly of any changes to these events, especially the date as some venues are prone to double book, the severity of these changes are highlighed to the players so they're always in the know. 
 
-Joe can now view new events, especially if his old event is cancelled and the new event in it's place so he doesn't miss out or need a paper entry form to participate.
+Joe now views new events, especially if his old event is cancelled, here he doesn't need to pick up a paper entry form.
 
 **Scenario 2**: New To Chess "Charlotte"
 
-Charlotte enjoyed playing chess when she was at school but hasn't thought much about it since. Charlotte is completely unaware of the chess events regularly taking place in her area.
+Charlotte enjoyed playing chess when she was at school but hasn't thought much about it since. Charlotte is completely unaware of the chess events which regularly taking place in her local area.
 
-Through the Chess Events mobile app, Charlotte can quickly and easily see what events are taking place but more importantly, when and where. Not only this but a quick message directly to the organiser Charlotte can be put at ease having never played in a "proper" tournament and doesn't know what a grade is (which demanded on existing paper entry forms).
+Through the Chess Events mobile app, Charlotte is able to quickly and easily see what events are taking place but more importantly, when and where. Not only this but after sending a quick message directly to the organiser Charlotte was reassured, having never played in a "proper" tournament, that having no grade wasn't a problem (something which is required on existing paper entry forms).
 
-**Scenario 3**: Keen Organiser "Jess"
+**Scenario 5**: Tech Phobe "Richard"
 
-Jess was never very good at chess but has always loved getting involve with organising, especially new events. Every time Jess has tried to find any information about this using Google, or asking other members of the chess community, she has been met with an overwelming list tasks from members but no official documentation from any governing body.
-
-Through the Chess Events web and mobile app Jess delved into the details of organising an event. She quickly and easily defined the criteria of her first tournament, the number of rounds; time limit and the number of sections. Jess was also able to plan her event to avoid any clashes with other events in the calendar. Jess asked for advice from the other organisers (registered on Chess Events) and was able to get in touch with venues where events have previously been held to book hers.
-
-**Scenario 4**: Tech Phobe "Richard"
-
-Richard has organised chess events for nearly 20 years, he knows everything there is to know about running a successful congress but, despite his best efforts to improve things over the last few years, entries have been consistently falling year on year.  
+Richard has organised chess events for almost 20 years, he knows everything there is to know about running a successful congress but, despite his best efforts to improve things over the last few years, entries have been consistently falling year on year.  
 
 Richard doesn't know much about computers and admits he struggles to keep on top of his emails when players send in their queries, especially about payment including late fees and discounts.
 
-Through Chess Events Richard created all of his events recursively year significantly reducing his yearly admin. Not only this but Richard set up a payment method to allow players to enter his prestigious events, automatically adjusting for late payment fees and member discounts.
+Through Chess Events Richard created all of his events recursively, significantly reducing his yearly admin. Not only this but Richard set up a payment method to allow players to enter his prestigious events directly online, this automatically accounted for late payment fees and member discounts.
 
-Richard busies himself with the more important aspects of event organisation, preparing the facilities to accommodate the players (chess sets, clocks, arbiters etc). Richard is happy Chess Events are busy promoting and sharing his event on social media, notifying existing users of these events and encouraging new players to come along.
+Richard now focuses on the other aspects of event organisation, the ones he most enjoys, preparing the facilities to accommodate the players (chess sets, clocks, arbiters, refreshments, etc). Richard allows Chess Events to promote and share his events on social media as well as notify existing users of these events and encouraging new players to come along.
+
+**Scenario 4**: Keen Organiser "Jess"
+
+Jess was never very good at chess but has always loved getting involve with organising, especially new events. Every time Jess has tried to find any information about this using Google, or asking other members of the chess community, she has been met with an overwelming list tasks from members but no official documentation from any governing body.
+
+Through the Chess Events web and mobile app Jess delved into the details of organising an event. She quickly and easily defined the criteria of her first tournament, the number of rounds; time limit and the number of sections. Jess was also able to plan her event to avoid any clashes with other events in the calendar. Jess asked for advice from the other organisers within the app and was able to get in touch with venues where events have previously been held.
 
 ### Non Goals
 
