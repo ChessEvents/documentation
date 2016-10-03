@@ -56,7 +56,7 @@ Our initial intentions are to stay clear of the following areas:
 There are already two primary systems in operation in the UK, these are:
 
 * The English Chess Federation Grade -  [view](http://www.ecfgrading.org.uk/new/menu.php)
-* The FIDE International Rating (based on the Elo Rating System) - [view](https://ratings.fide.com/)
+* The FIDE International Rating (based on the [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) Rating System) - [view](https://ratings.fide.com/)
 
 These systems are well established an suitably maintained which provide a reliable reference for players and organiser to accurately determine playing strength in relation to others.
 
