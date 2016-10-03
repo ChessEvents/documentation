@@ -21,7 +21,7 @@ Joe regularly enters chess events all across the country, he picks up entry form
 
 Joe is likely to miss new opportunities or critically not be informed of last minute changes to events unforeseen by the organiser. Currently organiser can only inform players by telephone or by post which is both time consuming and costly.
 
-Through Chess Events Joe was able to favourite the events he regularly attended, this automatically reminders him a short while before before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part appreciate being notified instantly of any changes to these events, especially the date as some venues are prone to double book, the severity of these changes are highlighed to the players so they're always in the know. 
+Through Chess Events Joe was able to favourite the events he regularly attended, this automatically reminders him a short while before before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part appreciate being notified instantly of any changes to these events, especially the date as some venues are prone to double book, the severity of these changes are highlighed to the players so they're always in the know.
 
 Joe now views new events, especially if his old event is cancelled, here he doesn't need to pick up a paper entry form.
 
@@ -60,19 +60,30 @@ There are already two primary systems in operation in the UK, these are:
 
 These systems are well established an suitably maintained which provide a reliable reference for players and organiser to accurately determine playing strength in relation to others.
 
-Although there are no immediate plan to build a bespoke system for tracking players performance, Chess Events will use both systems mentioned in order to provide a more detailed profile, this will aid both  the organisers (for players entering their events), and the players themselves to view their performance.
+Although there are no immediate plans to build a bespoke system for tracking players performance, Chess Events will use both systems mentioned in order to provide a more detailed profile, this will aid both the organisers (for players entering their events), and the players themselves (when viewing their individual performance via their profile page).
 
-##### Tournament Results Tracking
+##### Tournament Tracking
 
 Again, there are a number of systems in operation which offer tournament organisers a reliable solution to manage tournament participation and performance calculations.
+
 
 * Swiss Perfect - [view](http://www.swissperfect.com/)
 * Vega Chess [view](http://www.vegachess.com/tl/index.php/Home_page_English.html)
 
-Chess Events aims to provide a more seamless intregration with all third party tournament tracking systems. This offers two significant benefits to the chess community:
+Chess Events aims to provide seamless integration between the main third party tournament tracking systems. This offers two significant benefits to the chess community:
 
 1. Improved efficiency for the organisers - entries to their events are tracked through a single platform allowing a consistent download of entry data into the format pre formatted for the tournament software of their choice.
 2. Reduced human error - as the downloaded data is verified with the official rating / grading systems(s) the unique player ids and format of the data will vastly reduce human errors for result publication.
+
+##### Result Publication
+
+This is perhaps the most challenging of tasks as our users will expect some form of feedback from events they entry through Chess Events.
+
+The major provider for results on online is:
+
+* Chess-Results.com - [view](http://www.chess-results.com/)
+
+Our aim therefore is to compliment this software by providing as above, a seamless integration path in order for organisers to publish their results on both platforms. A concise view will be provided on Chess Events and the detailed breakdown remaining on Chess-Results. 
 
 ### Screen by Screen Specification
 
