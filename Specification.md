@@ -19,7 +19,7 @@ In designing products, it helps to imagine a few real life stories of how actual
 
 Joe regularly enters chess events all across the country, he picks up entry forms for future events at many of the events he attends. Joe usually plays the same ones year in year out and as such has a good grasp for when these are and where they're being played.
 
-Joe is likely to miss new opportunities or critically not be informed of last minute changes to events unforeseen by the organiser. Currently organiser can only inform players by telephone or by post which is both time consuming and costly.
+Joe is likely to miss new opportunities or critically not be informed of last minute changes to events unforeseen by the organiser. Currently organisers can only inform players by telephone or by post which is both time consuming and costly.
 
 Through Chess Events Joe was able to favourite the events he regularly attended, this automatically reminders him a short while before before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part appreciate being notified instantly of any changes to these events, especially the date as some venues are prone to double book, the severity of these changes are highlighed to the players so they're always in the know.
 
@@ -83,7 +83,7 @@ The major provider for results on online is:
 
 * Chess-Results.com - [view](http://www.chess-results.com/)
 
-Our aim therefore is to compliment this software by providing as above, a seamless integration path in order for organisers to publish their results on both platforms. A concise view will be provided on Chess Events and the detailed breakdown remaining on Chess-Results. 
+Our aim therefore is to compliment this software by providing as above, a seamless integration path in order for organisers to publish their results on both platforms. A concise view will be provided on Chess Events and the detailed breakdown remaining on Chess-Results.
 
 ### Screen by Screen Specification
 
