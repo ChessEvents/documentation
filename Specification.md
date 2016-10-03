@@ -7,7 +7,7 @@ Last updated 3rd October 2016
 
 Chess Events Ltd is a software service which aims to improve the efficiency, accessibility and management of chess events played in the United Kingdom.
 
-This specification is not, by any means, complete. Most of the wording will be revised several times before it is finalised. The graphics and layout of the wireframes shown here merely illustrate the underlying functionality. The actual look and feel will be developed over time with the input of graphics designers and iterative user feedback.
+This specification is not, by any means, complete. Most of the wording will be revised several times before it is finalised. The graphics and layout of the wireframes shown here merely illustrate the underlying functionality. The actual look and feel will be developed over time with the input of graphic designers and iterative user feedback.
 
 This specification does not discuss the algorithms or business logic used within the Chess Events API, Mobile or Web Application, all of these will be discussed elsewhere. It simply discusses what the user sees when they interact with the application through chessevents.co.uk
 
@@ -17,19 +17,19 @@ In designing products, it helps to imagine a few real life stories of how actual
 
 **Scenario 1**: Frequent Player "Joe"
 
-Joe regularly enters chess events all across the country, he picks up entry forms for future events at many of the events he attends. Joe usually plays the same ones year in year out and as such has a good grasp for when these are and where they're being played.
+Joe regularly enters chess events all across the country, he picks up entry forms for future events at many of the events he attends. Joe usually plays the same events year in year out and therefore has a good grasp for when these are and where they're being played.
 
-Joe is likely to miss new opportunities or critically not be informed of last minute changes to events unforeseen by the organiser. Currently organisers can only inform players by telephone or by post which is both time consuming and costly.
+Joe is likely to miss new opportunities or more critically not be informed of last minute changes to events unforeseen by the organiser. Currently organisers can only inform players by telephone or by post which is both time consuming and costly.
 
-Through Chess Events Joe was able to favourite the events he regularly attended, this automatically reminders him a short while before before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part appreciate being notified instantly of any changes to these events, especially the date as some venues are prone to double book, the severity of these changes are highlighed to the players so they're always in the know.
+Through Chess Events Joe was able to 'Favourite' the events he regularly attends. This automatically reminds him a short while before the event begins so he doesn't forget or incur a late fee!  Joe and other players taking part benefit from being notified instantly of any changes to events, particularly the date as some venues are prone to double book. The severity of these changes are highlighed to the players so they are always in the know.
 
-Joe now views new events, especially if his old event is cancelled, here he doesn't need to pick up a paper entry form.
+Joe now regularly views new events, especially if his old event is cancelled, plus he no longer needs to pick up a paper entry form. He is also notified of events which are likely to be of interest to him which are chosen specifically for him, taking into account the events he already enters.
 
 **Scenario 2**: New To Chess "Charlotte"
 
-Charlotte enjoyed playing chess when she was at school but hasn't thought much about it since. Charlotte is completely unaware of the chess events which regularly taking place in her local area.
+Charlotte enjoyed playing chess when she was at school but hasn't thought much about it since. Charlotte is completely unaware of the chess events which are regularly taking place in her local area.
 
-Through the Chess Events mobile app, Charlotte is able to quickly and easily see what events are taking place but more importantly, when and where. Not only this but after sending a quick message directly to the organiser Charlotte was reassured, having never played in a "proper" tournament, that having no grade wasn't a problem (something which is required on existing paper entry forms).
+Through the Chess Events mobile app, Charlotte is able to quickly and easily see what events are taking place, with a simple filter she can narrow down the events closest to her taking place on dates which are preferable. Not only this but after sending a quick message directly to the organiser Charlotte is reassured, having never played in a "proper" tournament, that having no grade wasn't a problem (something which is required on existing paper entry forms).
 
 **Scenario 5**: Tech Phobe "Richard"
 
@@ -43,7 +43,7 @@ Richard now focuses on the other aspects of event organisation, the ones he most
 
 **Scenario 4**: Keen Organiser "Jess"
 
-Jess was never very good at chess but has always loved getting involve with organising, especially new events. Every time Jess has tried to find any information about this using Google, or asking other members of the chess community, she has been met with an overwelming list tasks from members but no official documentation from any governing body.
+Jess was never particularly talented in chess but has always loved getting involved with the organising, especially new events. Every time Jess has tried to find any information about this using Google, or by asking other members of the chess community, she has been met with an overwhelming list of tasks from members but no official documentation from any governing body.
 
 Through the Chess Events web and mobile app Jess delved into the details of organising an event. She quickly and easily defined the criteria of her first tournament, the number of rounds; time limit and the number of sections. Jess was also able to plan her event to avoid any clashes with other events in the calendar. Jess asked for advice from the other organisers within the app and was able to get in touch with venues where events have previously been held.
 
@@ -58,7 +58,7 @@ There are already two primary systems in operation in the UK, these are:
 * The English Chess Federation Grade -  [view](http://www.ecfgrading.org.uk/new/menu.php)
 * The FIDE International Rating (based on the [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) Rating System) - [view](https://ratings.fide.com/)
 
-These systems are well established an suitably maintained which provide a reliable reference for players and organiser to accurately determine playing strength in relation to others.
+These systems are well established and suitably maintained they provide a reliable reference for players and organisers to accurately determine playing strength in relation to others.
 
 Although there are no immediate plans to build a bespoke system for tracking players performance, Chess Events will use both systems mentioned in order to provide a more detailed profile, this will aid both the organisers (for players entering their events), and the players themselves (when viewing their individual performance via their profile page).
 
@@ -73,11 +73,11 @@ Again, there are a number of systems in operation which offer tournament organis
 Chess Events aims to provide seamless integration between the main third party tournament tracking systems. This offers two significant benefits to the chess community:
 
 1. Improved efficiency for the organisers - entries to their events are tracked through a single platform allowing a consistent download of entry data into the format pre formatted for the tournament software of their choice.
-2. Reduced human error - as the downloaded data is verified with the official rating / grading systems(s) the unique player ids and format of the data will vastly reduce human errors for result publication.
+2. Reduced human error - as the downloaded data is verified with the official rating / grading systems(s) the unique player ID's and format of the data will vastly reduce human errors for result publication.
 
 ##### Result Publication
 
-This is perhaps the most challenging of tasks as our users will expect some form of feedback from events they entry through Chess Events.
+This is perhaps the most challenging of tasks, as our users will expect some form of feedback from events they enter through Chess Events.
 
 The major provider for results on online is:
 
@@ -89,7 +89,7 @@ Our aim therefore is to compliment this software by providing as above, a seamle
 
 **Landing Page**
 
-* Allow users download the mobile app (both iOS and Android)
+* Allow users to download the mobile app (both iOS and Android)
 * Allow users to sign in to the web app
     * This will redirect the user to the web application for sign in.
 * Allow new users to sign up
@@ -113,7 +113,7 @@ When the user is signed in:
     * See a list of notifications (link to their inbox)
 * Profile page
     * View and Edit profile basic details:
-         * Username / Email / Address / Grade / Rating / Profile imagine
+         * Username / Email / Address / Grade / Rating / Profile image
     * View list of upcoming entered events
     * View list of favourites
     * View list of events played (pending review)
@@ -131,7 +131,7 @@ When the user is signed in:
     * View details of the event:
         * Dates / Location
         * Facilities
-        * Previous Years Reviews
+        * Previous Year's Reviews
         * Price / How to Enter / Submit Entry
         * Event Parameters (sections / format)
         * View entries
@@ -158,7 +158,7 @@ When the user is signed in:
     * Link - "My profile"
 * Profile page
     * View and Edit profile basic details:
-         * Username / Email / Address / Grade / Rating / Profile imagine
+         * Username / Email / Address / Grade / Rating / Profile image
     * View list of upcoming entered events
     * View list of favourites
     * View list of events played (pending review)
@@ -173,7 +173,7 @@ When the user is signed in:
     * View details of the event:
         * Dates / Location
         * Facilities
-        * Previous Years Reviews
+        * Previous Year's Reviews
         * Price / How to Enter / Submit Entry
         * Event Parameters (sections / format)
         * View entries
