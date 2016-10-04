@@ -148,7 +148,6 @@ To view the mobile applications, users must download the app from either the App
 
 ![iPhone Home Screen][iphone-home-screen]
 
-
 When the user is signed in:
 
 * Home page
@@ -181,4 +180,4 @@ When the user is signed in:
         * Event Parameters (sections / format)
         * View entries
 
-[iphone-home-screen]: https://github.com/ChessEvents/documentation/images/iphone-home-screen.png=raw "iPhone Home Screen"
+[iphone-home-screen]: https://github.com/ChessEvents/documentation/images/iphone-home-screen.png?raw=true "iPhone Home Screen"
