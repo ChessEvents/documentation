@@ -146,7 +146,7 @@ When the user is signed in:
 
 To view the mobile applications, users must download the app from either the Apple App store or the Google Play store. Once downloaded users can login (with their existing details) or create an account.
 
-![iPhone Home Screen](https://github.com/ChessEvents/documentation/blob/master/images/iphone-home-screen.png?raw=true =100x)
+<img src="https://github.com/ChessEvents/documentation/blob/master/images/iphone-home-screen.png?raw=true" height="300" align="right"/>
 
 When the user is signed in:
 
