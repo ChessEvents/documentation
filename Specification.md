@@ -146,6 +146,9 @@ When the user is signed in:
 
 To view the mobile applications, users must download the app from either the Apple App store or the Google Play store. Once downloaded users can login (with their existing details) or create an account.
 
+![iPhone Home Screen][iphone-home-screen]
+
+
 When the user is signed in:
 
 * Home page
@@ -177,3 +180,5 @@ When the user is signed in:
         * Price / How to Enter / Submit Entry
         * Event Parameters (sections / format)
         * View entries
+
+[iphone-home-screen]: https://github.com/ChessEvents/documentation/images/iphone-home-screen.png=raw "iPhone Home Screen"
