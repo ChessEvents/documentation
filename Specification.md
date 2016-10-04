@@ -83,7 +83,7 @@ The major provider for results on online is:
 
 * Chess-Results.com - [view](http://www.chess-results.com/)
 
-Our aim therefore is to compliment this software by providing as above, a seamless integration path in order for organisers to publish their results on both platforms. A concise view will be provided on Chess Events and the detailed breakdown remaining on Chess-Results. 
+Our aim therefore is to compliment this software by providing as above, a seamless integration path in order for organisers to publish their results on both platforms. A concise view will be provided on Chess Events and the detailed breakdown remaining on Chess-Results.
 
 ### Screen by Screen Specification
 
