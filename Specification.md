@@ -103,6 +103,8 @@ The Chess Events application is split into two primary functions in order to del
 
 To view the web application users must be signed in. Users who are not signed in will automatically be redirected to the "sign in / create account page".
 
+<img src="/images/landing-wireframe.png?raw=true"/>
+
 When the user is signed in:
 
 * Home page
