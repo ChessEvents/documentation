@@ -1,7 +1,7 @@
 ## Chess Events Ltd
 ### Functional Specification
 ##### Matthew D Webb
-Last updated 3rd October 2016
+Last updated 4th October 2016
 
 ### Overview
 
