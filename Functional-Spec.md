@@ -1,5 +1,7 @@
 # Chess Events Ltd
 
+<img src="./images/chessevents.png?raw=true" width="100" />
+
 ## Functional Specification
 
 ### Matthew D Webb
@@ -115,7 +117,7 @@ The Chess Events application is split into two primary functions in order to del
 
 To view the web application users must be signed in. Users who are not signed in will automatically be redirected to the "sign in / create account page".
 
-![](/images/landing-wireframe.png?raw=true)
+<img src="./images/landing-wireframe.png?raw=true" width="500" />
 
 When the user is signed in:
 
@@ -175,7 +177,7 @@ When the user is signed in:
 
 To view the mobile applications, users must download the app from either the Apple App store or the Google Play store. Once downloaded users can login (with their existing details) or create an account.
 
-![](https://github.com/ChessEvents/documentation/blob/master/images/iphone-home-screen.png?raw=true)
+<img src="https://github.com/ChessEvents/documentation/blob/master/images/iphone-home-screen.png?raw=true" width="120" align="right" />
 
 When the user is signed in:
 
